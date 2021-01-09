@@ -5,4 +5,4 @@
 - ☃️ I search teamates to create some commons projects (In french).
 - ⚡️ 17y old.
 
-![Bxsic's github stats](https://github-readme-stats.vercel.app/api?username=bxsic-fr&show_icons=true&theme=onedark)
+![Bxsic's github stats](https://github-readme-stats.vercel.app/api?username=bxsic-fr&show_icons=true&theme=dracula)
