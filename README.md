@@ -1,6 +1,6 @@
 ### Hi ! I'm Bxsic ( ' BASIC ' ).
 
-- 🌧  Currently working on a connected pollution sensor (school project).
+- 👤  18y
 
 - 👕  Brand Direction 'The Stryk project'  
 
