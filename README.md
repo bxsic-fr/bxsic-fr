@@ -2,9 +2,9 @@
 
 - 👤  18y
 
-- 👕  Brand Direction 'The Stryk project'  
+- 👕  Brand Direction 'Stryk project'.
 
-- 🌿  Learning node.js & pentest everyday.
+- 👨‍🎓  Future Epita student.
 
 
 ![Bxsic's github stats](https://github-readme-stats.vercel.app/api?username=bxsic-fr&show_icons=true&theme=dracula)
