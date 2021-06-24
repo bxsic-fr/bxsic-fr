@@ -12,5 +12,3 @@
 **Top langages used in my repos**<br>
 ![langs](https://github-readme-stats.vercel.app/api/top-langs?username=bxsic-fr&show_icons=true&locale=en&layout=compact&theme=dracula)
 
-**Trophies i got here !**<br>
-![trophies](https://github-profile-trophy.vercel.app/?username=bxsic-fr&theme=juicyfresh&no-bg=true)
