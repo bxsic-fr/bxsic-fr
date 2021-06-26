@@ -29,11 +29,6 @@
   <img align="left" alt="Protonmail" width="21px" src="https://play-lh.googleusercontent.com/wU1g-jkRI73WEWNUKt--vdvZMzbjCgrVbJd9zRrpy63a85G-hXsv0px9mEA6W2l49J8" />
 </a>
 
-
-<br/><br/>
-<p align="center">
-<a target="_blank" href="https://github.com/kittinan/spotify-github-profile"><img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=5h2fas7wxq4wwv6n82jf5x8d3&cover_image=false&theme=default" />
-</p>
 <br/><br/>
 
 ![ViewCount](https://visitor-badge.glitch.me/badge?page_id=bxsic-fr)
