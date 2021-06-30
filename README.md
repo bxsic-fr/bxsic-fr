@@ -5,7 +5,7 @@
   <img src="https://avatars.githubusercontent.com/u/65828028?v=4" width=100>
   <br><br>
   <samp>
-    I'm currently working on differents small IT projects and one brand project (streetwear brand). Future <a href="https://www.epita.fr/">Epita</a> school studient (2021).<br/> 📖 Learning web development.
+    I'm currently working on differents small IT projects and one brand project (streetwear brand). Future <a href="https://www.epita.fr/">Epita</a> school studient (2021).<br/> 📖 Learning web development & Solidity.
   </samp>
 </p>
 
