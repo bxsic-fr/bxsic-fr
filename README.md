@@ -10,7 +10,7 @@
 </p>
 
 ### Work with :
-|<img src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/14/formation-node-js.png" width=60> | <img src="https://img.icons8.com/color/452/mongodb.png" width=65> | <img src="https://iconape.com/wp-content/files/df/370667/svg/bulma-logo-icon-png-svg.png" width=50> | 
+|<img src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/14/formation-node-js.png" width=60> | <img src="https://img.icons8.com/color/452/mongodb.png" width=65> | <img src="https://plugins.jetbrains.com/files/9475/119243/icon/pluginIcon.svg" width=50> | 
 |:---:|:---:|:---:|
 
 
