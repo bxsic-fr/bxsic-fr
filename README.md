@@ -1,11 +1,19 @@
 
 ## Bxsic
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/65828028?v=4" width=100>
-  <br><br>
+<p>
   <samp>
-    I'm currently working on differents small IT projects and a self business brand (streetwear clothing).<a href="https://www.epita.fr/">Epita</a> school studient (2021).<br/> 📖 Learning web development & Solidity.
+    Learning (yes, i'm -very- curious):
+    <ul>
+      <li>Js</li>
+      <li>Python</li>
+      <li>C</li>
+      <li>Swift</li>
+      <li>Reverse engineering</li>
+      <li>UI/UX design</li>
+      <li>Web pentest</li>
+    </ul>
+      <a href="https://www.epita.fr/">Epita</a> school student (2021).<br/> Curently working on AIO bot & small privates projects.
     <br/>
     <a href="https://nextjs.org/conf/tickets/oct21/bxsic-fr">Next.js keynote</a>
   </samp>
@@ -17,7 +25,7 @@
 
 
 ### Tools :
-|<img src="https://img.icons8.com/color/452/windows-10.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width=60> | <img src="https://img.icons8.com/emoji/452/brain-emoji.png" width=60> | 
+|<img src="https://uploads-ssl.webflow.com/5ff80c7d70f91c1de286286b/61375f6899d49d329a49e8c0_download_logo_figma_vector_logo_svg_eps_png_psd_ai_color_free_-_el_...png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width=60> | 
 |:---:|:---:|:---:|
 
 ### Contacts :
