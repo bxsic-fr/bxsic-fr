@@ -13,15 +13,14 @@
       <li>UI/UX design</li>
       <li>Web pentest</li>
     </ul>
-      <a href="https://www.epita.fr/">Epita</a> school student (2021).<br/> Curently working on AIO bot & small privates projects.
+      <a href="https://www.epita.fr/">Epita</a> school student (2021).<br/> Curently working on sneakers raffle bot & small privates projects.
     <br/>
-    <a href="https://nextjs.org/conf/tickets/oct21/bxsic-fr">Next.js keynote</a>
   </samp>
 </p>
 
 ### Work with :
-|<img src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/14/formation-node-js.png" width=60> | <img src="https://img.icons8.com/color/452/mongodb.png" width=65> | <img src="https://plugins.jetbrains.com/files/9475/119243/icon/pluginIcon.svg" width=50> | 
-|:---:|:---:|:---:|
+|<img src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/14/formation-node-js.png" width=60> | <img src="https://img.icons8.com/color/452/mongodb.png" width=65> | 
+|:---:|:---:|
 
 
 ### Tools :
