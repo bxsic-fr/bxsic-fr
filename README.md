@@ -1,4 +1,4 @@
-Bxsic - Kenoor
+Bxsic K'
 --
 - @[HellcatIV](https://github.com/Hellcat-IV) contributor 🐱 </br>
 - Cybersecurity enthusiast
